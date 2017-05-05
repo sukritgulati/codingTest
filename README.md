@@ -2,7 +2,7 @@
 
 ### The Main class is Driver.java
 ### The program parses the Landscape.txt file which contains landscape information for peaks and valleys.
-### The Driver class calls the Peak class which counts the number of castles to be made for a give list of Landscape integers
+### The Driver class calls the Peak class which counts the number of castles to be made for a given list of Landscape integers
 
 ## Assumptions
 ### 1. No landscape value is negative.
